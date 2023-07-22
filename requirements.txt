@@ -2,7 +2,7 @@ altgraph==0.16.1
 audioread==2.1.8
 cffi==1.13.2
 decorator==4.4.1
-future==0.18.2
+future==0.18.3
 joblib==0.14.0
 llvmlite==0.30.0
 mutagen==1.42.0
